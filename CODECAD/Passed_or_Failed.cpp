@@ -1,5 +1,7 @@
 #include <iostream>
+
 using namespace std;
+
 int main() {
   float A, B, media;
   cin >> A >> B;
